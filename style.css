@@ -1,4 +1,16 @@
 #bckground {
     height: auto;
-    width: 75%;
+    width: 100%;
+}
+#pretext {
+    width: 100%;
+    font-size: large;
+}
+
+#quote {
+    font-weight: bold;
+    font-size: large;
+}
+#menues {
+    font-size: larger;
 }
